@@ -9,5 +9,5 @@ Hi I'm Jei! I'm currently a college student who’s eager to use my software eng
 :office:  https://www.linkedin.com/in/jessicaaljames/
 
 
-
+![Codewars](https://github.r2v.ch/codewars?user=Jei1000)
 
