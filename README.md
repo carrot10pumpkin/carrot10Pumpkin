@@ -2,17 +2,11 @@ Hi I'm Jei! I'm currently a college student who’s eager to use my software eng
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vscode)](https://skillicons.dev)
 
- :computer: My profile - https://jeijames.netlify.app/
+ :computer: My portfolio - https://jeijames.netlify.app/
 
 :e-mail: How to reach me: carrot10pumpkin@hotmail.com
 
-
-<p align="left">
-  <a href=" https://www.linkedin.com/in/jessicaaljames/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-
-  </a>
-</p>
+:office:  https://www.linkedin.com/in/jessicaaljames/
 
 
 
