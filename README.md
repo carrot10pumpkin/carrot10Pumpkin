@@ -11,4 +11,3 @@ Hi I'm Jei! I'm currently a college student who’s eager to use my software eng
 
 ![Codewars](https://github.r2v.ch/codewars?user=Jei1000)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6596d3eaae22c125232281da?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
