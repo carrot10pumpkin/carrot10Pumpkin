@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jei</h1>
+<h1 align="center">Hi 👋🏿, I'm Jei</h1>
 <h3 align="center">A passionate software developer from Georgia</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://jeijames.netlify.app/](https://jeijames.netlify.app/)
+- 🧑🏿‍💻 All of my projects are available at [https://jeijames.netlify.app/](https://jeijames.netlify.app/)
 
 - 📫 How to reach me **jeijames@proton.me**
 
