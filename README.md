@@ -1,13 +1,19 @@
-Hi I'm Jei! I'm currently a college student who’s eager to use my software engineering / programming skills to build well made websites and apps using the following:
+<h1 align="center">Hi 👋, I'm Jei</h1>
+<h3 align="center">A passionate software developer from Georgia</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vscode)](https://skillicons.dev)
+- 🌱 I’m currently learning **Full Stack Development**
 
- :computer: My portfolio - https://jeijames.netlify.app/
+- 👨‍💻 All of my projects are available at [https://jeijames.netlify.app/](https://jeijames.netlify.app/)
 
-:e-mail: How to reach me: carrot10pumpkin@hotmail.com
+- 📫 How to reach me **jeijames@proton.me**
 
-:office:  https://www.linkedin.com/in/jessicaaljames/
+- 📄 Know about my experhttps://www.linkedin.com/in/jessicaaljamiences [https://www.linkedin.com/in/jessicaaljames/](https://www.linkedin.com/in/jessicaaljames/)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jessicaaljames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessicaaljames" height="30" width="40" /></a>
+</p>
 
-![Codewars](https://github.r2v.ch/codewars?user=Jei1000)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
