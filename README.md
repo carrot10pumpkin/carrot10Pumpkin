@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jeijames@proton.me**
 
-- 📄 Know about my experhttps://www.linkedin.com/in/jessicaaljamiences [https://www.linkedin.com/in/jessicaaljames/](https://www.linkedin.com/in/jessicaaljames/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jessicaaljames/](https://www.linkedin.com/in/jessicaaljames/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
